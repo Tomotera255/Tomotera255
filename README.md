@@ -1,9 +1,8 @@
-# Tomotera
-Website: https://tomotera.tk/  
+# Tomotera255  
 Twitter: https://twitter.com/Tomotera255  
-GitHub: https://github.com/Tomotera
+GitHub: https://github.com/Tomotera255  
   
 ## #TomoHax  
 Website: https://tomohax.tk/  
-Twitter: https://twitter.com/TomoHax
+Twitter: https://twitter.com/TomoHax  
 GitHub: https://github.com/TomoHax
